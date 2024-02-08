@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\bin\Debug\net8.0\ejercicioPolimorfismo.exe
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\bin\Debug\net8.0\ejercicioPolimorfismo.deps.json
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\bin\Debug\net8.0\ejercicioPolimorfismo.runtimeconfig.json
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\bin\Debug\net8.0\ejercicioPolimorfismo.dll
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\bin\Debug\net8.0\ejercicioPolimorfismo.pdb
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.dll
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\refint\ejercicioPolimorfismo.dll
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.pdb
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ejercicioPolimorfismo.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\proyectos\ejercicioPolimorfismo\ejercicioPolimorfismo\obj\Debug\net8.0\ref\ejercicioPolimorfismo.dll
